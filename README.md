@@ -5,7 +5,7 @@ No Protheus, é simples de usar, podemos usar a função GetPvProfString() para 
 
 Sintaxe: GetPvProfString( < cSecao >, < cChave >, < cPadrao >, < cNomeArqCfg >, [ uParam5 ], [ uParam6 ] )
 
-<p><img src="resources/arquivoini.webp></p>
+<p><img src="resources/arquivoini.jpg></p>
 
 ##Exemplo
 <a href="https://youtu.be/3OyuOH2Pg3I" target="_blank">Veja este exemplo</a>
